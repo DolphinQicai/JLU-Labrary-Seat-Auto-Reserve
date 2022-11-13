@@ -11,13 +11,9 @@ import re
 
 url = 'http://libzwyy.jlu.edu.cn/'
 
-# 张航健
-id = '20190104031'
-password = '310416'
-
-# 测试
-# id = '20190104045'
-# password = '030193'
+# 用户名、密码
+id = ''
+password = ''
 
 def shui():
     time.sleep(2)
